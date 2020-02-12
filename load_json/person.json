@@ -1,0 +1,33 @@
+[
+    {
+        "name":"Aniket Ghotale" ,
+        "age": "22",
+        "height":"150",
+        "gender":"Male",
+        "hair_color": "black"
+    },
+
+    {
+        "name":"Akash Ghotale" ,
+        "age": "20",
+        "height":"145",
+        "gender":"Male",
+        "hair_color": "black"
+    },
+
+    {
+        "name":"Abhishek Ghotale" ,
+        "age": "18",
+        "height":"149",
+        "gender":"Male",
+        "hair_color": "black"
+    },
+
+    {
+        "name":"Priya Ghotale" ,
+        "age": "17",
+        "height":"140",
+        "gender":"Female",
+        "hair_color": "black"
+    }
+]
